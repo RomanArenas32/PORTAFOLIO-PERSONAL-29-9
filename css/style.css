@@ -394,14 +394,3 @@ h1 {
     }
 }
 
-/*EXTRAS*/
-#changeCard{
-    width: 30px;
-    height: 25px;
-    position: relative;
-    margin-top: 0;
-    margin-bottom: 2rem;
-    align-items: center;
-    margin-left: 7rem;
-    font-size: 20px;
-}
