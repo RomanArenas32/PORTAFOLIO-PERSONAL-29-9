@@ -224,9 +224,7 @@ h1 {
     text-align: center;
 }
 
-.contenido-servicios {
-    padding-bottom: 2rem;
-}
+
 
 .servicios-titulo {
     font-size: 25px;
@@ -394,4 +392,16 @@ h1 {
         max-width: fit-content;
         gap: 2rem
     }
+}
+
+/*EXTRAS*/
+#changeCard{
+    width: 30px;
+    height: 25px;
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    align-items: center;
+    margin-left: 7rem;
+    font-size: 20px;
 }
